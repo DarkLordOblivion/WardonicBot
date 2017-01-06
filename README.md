@@ -1,0 +1,2 @@
+# WardonicBot
+WardonicDiscordBot
